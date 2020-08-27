@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Whohim👦,
+A 24Y/O Web  developer🎯 from china.
+- 🌱 I’m currently learning NodeJs, Java
+- 📫 How to reach me: You may follow me on [Mail](534801304@qq.com)  
+- 😄 Pronouns: he/him/his
 
-<!--
-**600849155/600849155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-Here are some ideas to get you started:
+![Whohim's github stats](https://github-readme-stats.vercel.app/api?username=600849155&show_icons=true&hide=["issues"])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HitCount](http://hits.dwyl.com/600849155/600849155.svg)](http://hits.dwyl.com/600849155/600849155)
+
+---
