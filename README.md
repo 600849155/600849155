@@ -1,6 +1,6 @@
 ### Hi there, I'm Whohim👦,
 A 24Y/O Web  developer🎯 from china.
-- 🌱 I’m currently learning NodeJs, Java
+- 🌱 I’m currently learning NodeJs, Java, Golang
 - 📫 How to reach me: You may follow me on [Mail](534801304@qq.com)  
 - 😄 Pronouns: he/him/his
 
